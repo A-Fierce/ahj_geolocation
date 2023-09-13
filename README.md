@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/e6ibn1fh8g9v28bl?svg=true)](https://ci.appveyor.com/project/A-Fierce/ahj-geolocation)
